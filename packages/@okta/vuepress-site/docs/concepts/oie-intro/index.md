@@ -8,15 +8,17 @@ meta:
 
 <ApiLifecycle access="ie" />
 
-Okta Identity Engine is a new authentication pipeline that provides valuable new features and a more flexible approach to your auth needs. This article provides a high-level introduction.
+This article provides a high-level introduction to Okta Identity Engine, a new authentication pipeline providing valuable new features and a more flexible approach to your authentication needs. 
 
-This page discusses the following:
+## Learning outcomes
 
-* New features Identity Engine brings to the table
-* The deployment models that use these features
-* Changes to the documentation experience to support Identity Engine
+* Learn Identity Engine new features
+* Learn which deployment models use these features
+* Learn about Identity Engine SDKs and sample apps
+* Learn how the Identity Engine documentation experience has changed
+* Learn how to access and upgrade to Identity Engine
 
-> **Note**: If you're an admin, or are looking for product docs related to Identity Engine, see the Identity Engine [Get started page](https://help.okta.com/okta_help.htm?type=oie&id=ext-get-started-oie).
+> **Note**: If you're an admin, or are looking for product docs related to Identity Engine, see the [Get started page](https://help.okta.com/okta_help.htm?type=oie&id=ext-get-started-oie).
 
 ## Identity Engine new features
 
